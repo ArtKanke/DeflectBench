@@ -1,6 +1,6 @@
 import asyncio
 from api.xai_client import call
-from generate_core import run
+from generation.core import run
 
 MODEL = "grok-4.3"   
 

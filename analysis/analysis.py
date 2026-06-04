@@ -39,8 +39,8 @@ def pct(x):
 
 section("LOADING DATA")
 
-gen_files = sorted(glob.glob("generations_*.jsonl"))
-eval_files = sorted(glob.glob("evals_*.jsonl"))
+gen_files = sorted(glob.glob("data/generations/*.jsonl"))
+eval_files = sorted(glob.glob("data/evals/*.jsonl"))
 
 print(f"Generation files : {gen_files}")
 print(f"Eval files       : {eval_files}")

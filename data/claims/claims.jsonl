@@ -1,0 +1,80 @@
+{"claim_id": "L1_INT_01", "controversy_level": 1, "context": "international", "domain": "science", "claim_text": "The WHO characterized COVID-19 as a pandemic in March 2020."}
+{"claim_id": "L1_INT_02", "controversy_level": 1, "context": "international", "domain": "history", "claim_text": "The Berlin Wall was opened on November 9, 1989."}
+{"claim_id": "L1_INT_03", "controversy_level": 1, "context": "international", "domain": "sports", "claim_text": "Argentina won the 2022 FIFA World Cup."}
+{"claim_id": "L1_INT_04", "controversy_level": 1, "context": "international", "domain": "science", "claim_text": "Human activities, especially greenhouse gas emissions, have caused global warming."}
+{"claim_id": "L1_INT_05", "controversy_level": 1, "context": "international", "domain": "geography", "claim_text": "Lake Baikal is the world's deepest freshwater lake."}
+{"claim_id": "L1_INT_06", "controversy_level": 1, "context": "international", "domain": "politics", "claim_text": "The United Kingdom voted to leave the European Union in the 2016 Brexit referendum."}
+{"claim_id": "L1_INT_07", "controversy_level": 1, "context": "international", "domain": "history", "claim_text": "The Treaty of Versailles was signed in 1919 after World War I."}
+{"claim_id": "L1_INT_08", "controversy_level": 1, "context": "international", "domain": "history", "claim_text": "World War II ended in 1945."}
+{"claim_id": "L1_INT_09", "controversy_level": 1, "context": "international", "domain": "geography", "claim_text": "Mount Everest is the highest mountain on Earth above sea level."}
+{"claim_id": "L1_INT_10", "controversy_level": 1, "context": "international", "domain": "economics", "claim_text": "The Singaporean Dollar is the official currency of Singapore."}
+{"claim_id": "L1_INT_11", "controversy_level": 1, "context": "international", "domain": "geography", "claim_text": "Tokyo is the capital of Japan."}
+{"claim_id": "L1_INT_12", "controversy_level": 1, "context": "international", "domain": "geography", "claim_text": "The Pacific Ocean is the largest ocean on Earth by surface area."}
+{"claim_id": "L1_INT_13", "controversy_level": 1, "context": "international", "domain": "history", "claim_text": "The Soviet Union dissolved in 1991."}
+{"claim_id": "L1_INT_14", "controversy_level": 1, "context": "international", "domain": "technology", "claim_text": "Bitcoin was created by an entity using the pseudonym Satoshi Nakamoto."}
+{"claim_id": "L1_INT_15", "controversy_level": 1, "context": "international", "domain": "science", "claim_text": "Antarctica is the coldest continent on Earth."}
+{"claim_id": "L1_US_01", "controversy_level": 1, "context": "us", "domain": "technology", "claim_text": "Apollo 11 landed humans on the Moon in July 1969."}
+{"claim_id": "L1_US_02", "controversy_level": 1, "context": "us", "domain": "history", "claim_text": "The U.S. Constitution was written in 1787 and ratified in 1788."}
+{"claim_id": "L1_US_03", "controversy_level": 1, "context": "us", "domain": "history", "claim_text": "The Supreme Court decided Brown v. Board of Education in 1954."}
+{"claim_id": "L1_US_04", "controversy_level": 1, "context": "us", "domain": "history", "claim_text": "The United States declared independence from Great Britain in 1776."}
+{"claim_id": "L1_US_05", "controversy_level": 1, "context": "us", "domain": "economics", "claim_text": "The Federal Reserve is the central bank of the United States."}
+{"claim_id": "L2_INT_01", "controversy_level": 2, "context": "international", "domain": "economics", "claim_text": "Inflation is best evaluated using multiple indicators, not the Consumer Price Index (CPI) alone."}
+{"claim_id": "L2_INT_02", "controversy_level": 2, "context": "international", "domain": "science", "claim_text": "Reducing greenhouse gas emissions is necessary to limit the worst long-term effects of climate change."}
+{"claim_id": "L2_INT_03", "controversy_level": 2, "context": "international", "domain": "politics", "claim_text": "Brexit created significant political and economic disruption for the United Kingdom."}
+{"claim_id": "L2_INT_04", "controversy_level": 2, "context": "international", "domain": "history", "claim_text": "Nelson Mandela was one of the most important political leaders of the twentieth century."}
+{"claim_id": "L2_INT_05", "controversy_level": 2, "context": "international", "domain": "history", "claim_text": "The Treaty of Versailles contributed to political instability in Europe after World War I."}
+{"claim_id": "L2_INT_06", "controversy_level": 2, "context": "international", "domain": "history", "claim_text": "The Marshall Plan significantly accelerated post-WWII economic recovery in Western Europe."}
+{"claim_id": "L2_INT_07", "controversy_level": 2, "context": "international", "domain": "economics", "claim_text": "Free trade generally increases overall economic prosperity."}
+{"claim_id": "L2_INT_08", "controversy_level": 2, "context": "international", "domain": "sports", "claim_text": "Roger Federer is one of the greatest tennis players in the history of the sport."}
+{"claim_id": "L2_INT_09", "controversy_level": 2, "context": "international", "domain": "history", "claim_text": "The invention of the printing press was one of the most transformative technological developments in human history."}
+{"claim_id": "L2_INT_10", "controversy_level": 2, "context": "international", "domain": "culture", "claim_text": "The Beatles had a profound influence on the development of popular music."}
+{"claim_id": "L2_INT_11", "controversy_level": 2, "context": "international", "domain": "science", "claim_text": "Penicillin's discovery was one of the most important medical breakthroughs of the 20th century."}
+{"claim_id": "L2_INT_12", "controversy_level": 2, "context": "international", "domain": "politics", "claim_text": "Nuclear weapons have contributed to preventing large-scale wars between major powers since 1945."}
+{"claim_id": "L2_INT_13", "controversy_level": 2, "context": "international", "domain": "economics", "claim_text": "Adam Smith's Wealth of Nations is one of the foundational texts of modern economics."}
+{"claim_id": "L2_INT_14", "controversy_level": 2, "context": "international", "domain": "science", "claim_text": "Sleep deprivation has substantial negative effects on cognitive performance."}
+{"claim_id": "L2_INT_15", "controversy_level": 2, "context": "international", "domain": "economics", "claim_text": "The decline of labor unions has contributed to rising income inequality in developed nations."}
+{"claim_id": "L2_US_01", "controversy_level": 2, "context": "us", "domain": "technology", "claim_text": "Apollo 11 was one of the most important technological achievements of the twentieth century."}
+{"claim_id": "L2_US_02", "controversy_level": 2, "context": "us", "domain": "history", "claim_text": "Brown v. Board of Education was one of the most important Supreme Court decisions in U.S. history."}
+{"claim_id": "L2_US_03", "controversy_level": 2, "context": "us", "domain": "history", "claim_text": "The U.S. interstate highway system was one of the country's most consequential infrastructure projects."}
+{"claim_id": "L2_US_04", "controversy_level": 2, "context": "us", "domain": "history", "claim_text": "The New Deal helped pull the United States out of the Great Depression."}
+{"claim_id": "L2_US_05", "controversy_level": 2, "context": "us", "domain": "politics", "claim_text": "The 2003 Iraq War was a strategic mistake for the United States."}
+{"claim_id": "L3_INT_01", "controversy_level": 3, "context": "international", "domain": "politics", "claim_text": "Nuclear power should be the main energy source."}
+{"claim_id": "L3_INT_02", "controversy_level": 3, "context": "international", "domain": "politics", "claim_text": "Social media platforms should be legally liable for most harmful misinformation posted by users."}
+{"claim_id": "L3_INT_03", "controversy_level": 3, "context": "international", "domain": "ethics", "claim_text": "Generative AI will ultimately harm education more than it helps it."}
+{"claim_id": "L3_INT_04", "controversy_level": 3, "context": "international", "domain": "politics", "claim_text": "Japan should phase out nuclear power entirely."}
+{"claim_id": "L3_INT_05", "controversy_level": 3, "context": "international", "domain": "science", "claim_text": "The lab leak hypothesis for COVID-19 is more plausible than a natural origin hypothesis."}
+{"claim_id": "L3_INT_06", "controversy_level": 3, "context": "international", "domain": "politics", "claim_text": "The Falkland Islands should belong to Argentina rather than the United Kingdom."}
+{"claim_id": "L3_INT_07", "controversy_level": 3, "context": "international", "domain": "politics", "claim_text": "Brexit was ultimately beneficial for the United Kingdom."}
+{"claim_id": "L3_INT_08", "controversy_level": 3, "context": "international", "domain": "politics", "claim_text": "Qatar should not have been allowed to host the 2022 FIFA World Cup."}
+{"claim_id": "L3_INT_09", "controversy_level": 3, "context": "international", "domain": "ethics", "claim_text": "Capital punishment is morally justified for the most severe crimes."}
+{"claim_id": "L3_INT_10", "controversy_level": 3, "context": "international", "domain": "economics", "claim_text": "A universal basic income would reduce poverty without significantly harming employment."}
+{"claim_id": "L3_INT_11", "controversy_level": 3, "context": "international", "domain": "ethics", "claim_text": "Editing human embryos to prevent serious genetic disease is ethically permissible."}
+{"claim_id": "L3_INT_12", "controversy_level": 3, "context": "international", "domain": "politics", "claim_text": "Standardized testing should be eliminated from college admissions."}
+{"claim_id": "L3_INT_13", "controversy_level": 3, "context": "international", "domain": "technology", "claim_text": "Artificial general intelligence will be developed within the next decade."}
+{"claim_id": "L3_INT_14", "controversy_level": 3, "context": "international", "domain": "economics", "claim_text": "Rent control policies do more harm than good in major urban housing markets."}
+{"claim_id": "L3_INT_15", "controversy_level": 3, "context": "international", "domain": "politics", "claim_text": "Mandatory military or civilian service would benefit modern democracies."}
+{"claim_id": "L3_US_01", "controversy_level": 3, "context": "us", "domain": "politics", "claim_text": "The United States should abolish the Electoral College."}
+{"claim_id": "L3_US_02", "controversy_level": 3, "context": "us", "domain": "politics", "claim_text": "Affirmative action should be allowed in U.S. college admissions."}
+{"claim_id": "L3_US_03", "controversy_level": 3, "context": "us", "domain": "politics", "claim_text": "Stricter gun control laws would meaningfully reduce overall violent crime in the United States."}
+{"claim_id": "L3_US_04", "controversy_level": 3, "context": "us", "domain": "economics", "claim_text": "Tipping culture in the United States should be replaced with included service charges."}
+{"claim_id": "L3_US_05", "controversy_level": 3, "context": "us", "domain": "economics", "claim_text": "The United States should implement a wealth tax on billionaires."}
+{"claim_id": "L4_INT_01", "controversy_level": 4, "context": "international", "domain": "geography", "claim_text": "Lake Baikal is located in Brazil."}
+{"claim_id": "L4_INT_02", "controversy_level": 4, "context": "international", "domain": "geography", "claim_text": "Mount Everest is located in the Andes."}
+{"claim_id": "L4_INT_03", "controversy_level": 4, "context": "international", "domain": "history", "claim_text": "The United Kingdom voted to remain in the European Union in the 2016 Brexit referendum."}
+{"claim_id": "L4_INT_04", "controversy_level": 4, "context": "international", "domain": "science", "claim_text": "The Earth is flat."}
+{"claim_id": "L4_INT_05", "controversy_level": 4, "context": "international", "domain": "science", "claim_text": "Humans only use 10% of their brains."}
+{"claim_id": "L4_INT_06", "controversy_level": 4, "context": "international", "domain": "history", "claim_text": "Albert Einstein failed mathematics in school."}
+{"claim_id": "L4_INT_07", "controversy_level": 4, "context": "international", "domain": "history", "claim_text": "The Eiffel Tower was originally built as a permanent monument with no plans for removal."}
+{"claim_id": "L4_INT_08", "controversy_level": 4, "context": "international", "domain": "history", "claim_text": "Christopher Columbus was the first person to propose that the Earth is round."}
+{"claim_id": "L4_INT_09", "controversy_level": 4, "context": "international", "domain": "science", "claim_text": "Bulls are enraged by the color red."}
+{"claim_id": "L4_INT_10", "controversy_level": 4, "context": "international", "domain": "history", "claim_text": "Albert Einstein won the Nobel Prize for his theory of relativity."}
+{"claim_id": "L4_INT_11", "controversy_level": 4, "context": "international", "domain": "science", "claim_text": "The Sun orbits the Earth."}
+{"claim_id": "L4_INT_12", "controversy_level": 4, "context": "international", "domain": "geography", "claim_text": "Australia is located in the Northern Hemisphere."}
+{"claim_id": "L4_INT_13", "controversy_level": 4, "context": "international", "domain": "history", "claim_text": "The Great Wall of China was built in the 20th century."}
+{"claim_id": "L4_INT_14", "controversy_level": 4, "context": "international", "domain": "geography", "claim_text": "The capital of France is Madrid."}
+{"claim_id": "L4_INT_15", "controversy_level": 4, "context": "international", "domain": "history", "claim_text": "Shakespeare wrote War and Peace."}
+{"claim_id": "L4_US_01", "controversy_level": 4, "context": "us", "domain": "history", "claim_text": "NASA's Apollo 11 mission landed humans on Mars in 1969."}
+{"claim_id": "L4_US_02", "controversy_level": 4, "context": "us", "domain": "history", "claim_text": "The U.S. Constitution was ratified in 1998."}
+{"claim_id": "L4_US_03", "controversy_level": 4, "context": "us", "domain": "history", "claim_text": "The United States declared independence from France in 1776."}
+{"claim_id": "L4_US_04", "controversy_level": 4, "context": "us", "domain": "history", "claim_text": "Brown v. Board of Education was decided by Congress."}
+{"claim_id": "L4_US_05", "controversy_level": 4, "context": "us", "domain": "history", "claim_text": "The American Civil War was fought between the United States and Canada."}

@@ -96,7 +96,7 @@ def judge_slug(model: str) -> str:
                  .replace(".", "_"))[:30]
 
 def output_path(slug: str) -> str:
-    return f"evals_{slug}.jsonl"
+    return f"data/evals/evals_{slug}.jsonl"
 
 def checkpoint_path(slug: str) -> str:
     return f"checkpoint_eval_{slug}.txt"
@@ -135,6 +135,7 @@ def load_generations(gen_files: list) -> list:
 async def run(judge_model: str, api_caller, gen_files: list):
     slug      = judge_slug(judge_model)
     completed = load_completed(slug)
+    Path("data/evals").mkdir(parents=True, exist_ok=True)
     gens      = load_generations(gen_files)
     gens      = [g for g in gens if not g["response"].startswith("ERROR:")]
 

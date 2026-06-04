@@ -22,10 +22,10 @@ def make_gen_id(claim_id: str, prompt_id: str, slug: str, run: int) -> str:
     return f"{claim_id}__{prompt_id}__{slug}__r{run}"
 
 def output_path(slug: str) -> str:
-    return f"generations_{slug}.jsonl"
+    return f"data/generations/generations_{slug}.jsonl"
 
 def checkpoint_path(slug: str) -> str:
-    return f"checkpoint_{slug}.txt"
+    return f"data/generations/checkpoint_{slug}.txt"
 
 
 
@@ -50,6 +50,7 @@ async def run(model: str, api_caller):
     api_caller signature: async (session, model, prompt, temperature) -> dict
     dict shape: {"text": str, "input_tokens": int, "output_tokens": int}
     """
+    Path("data/generations").mkdir(parents=True, exist_ok=True)
     slug      = model_slug(model)
     completed = load_completed(slug)
 

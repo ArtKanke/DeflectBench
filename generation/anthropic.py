@@ -1,6 +1,6 @@
 import asyncio
 from api.anthropic_client import call
-from generate_core import run
+from generation.core import run
 
 MODEL = "claude-opus-4-7"   
 

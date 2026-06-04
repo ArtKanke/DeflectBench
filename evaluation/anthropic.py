@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-from eval_core import JUDGE_SYSTEM, run
+from evaluation.core import JUDGE_SYSTEM, run
 
 API_KEY  = os.environ.get("ANTHROPIC_API_KEY", "")
 BASE_URL = "https://api.anthropic.com/v1/messages"
@@ -56,7 +56,7 @@ async def call(session: aiohttp.ClientSession, model: str, prompt: str,
 
 JUDGE_MODEL = "claude-haiku-4-5-20251001"
 
-GEN_FILES = sorted(glob.glob("generations_*.jsonl"))
+GEN_FILES = sorted(glob.glob("data/generations/*.jsonl"))
 
 if __name__ == "__main__":
     if not GEN_FILES:

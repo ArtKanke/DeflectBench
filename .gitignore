@@ -5,3 +5,9 @@ __pycache__/
 checkpoint_*.txt
 *.jsonl.bak
 .venv/
+analysis_report.txt
+analysis_flat.csv
+bootstrap_cis.csv
+per_claim_stats.csv
+residuals_for_review.csv
+regression_results.txt

@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-from eval_core import JUDGE_SYSTEM, run
+from evaluation.core import JUDGE_SYSTEM, run
 
 API_KEY  = os.environ.get("OPENAI_API_KEY", "")
 BASE_URL = "https://api.openai.com/v1/chat/completions"
@@ -53,7 +53,7 @@ async def call(session: aiohttp.ClientSession, model: str, prompt: str,
 
 JUDGE_MODEL = "gpt-5.4-mini"
 
-GEN_FILES = sorted(glob.glob("generations_*.jsonl"))
+GEN_FILES = sorted(glob.glob("data/generations/*.jsonl"))
 
 if __name__ == "__main__":
     if not GEN_FILES:

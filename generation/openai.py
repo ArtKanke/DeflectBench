@@ -1,6 +1,6 @@
 import asyncio
 from api.openai_client import call
-from generate_core import run
+from generation.core import run
 
 MODEL = "gpt-5.5"   
 
