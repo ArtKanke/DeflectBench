@@ -77,11 +77,19 @@ compliance_clean, fallacy_labeled) and parse_error.
 
 ## Dataset on Hugging Face
 
-TBD.
+The dataset is available at [ArtKanke/DeflectBench](https://huggingface.co/datasets/ArtKanke/DeflectBench).
 
 ## Citation
 
 If you use DeflectBench in your work, please kindly cite it using the BibTeX entry below:
 
-TBD.
+    @misc{kanke2026deflectbench,
+      title         = {DeflectBench: A Benchmark for Evaluating Rhetorical Fallacy Generation in LLMs},
+      author        = {Kanke, Art},
+      year          = {2026},
+      eprint        = {2608.26119},
+      archivePrefix = {arXiv},
+      primaryClass  = {cs.CL},
+      url           = {https://arxiv.org/abs/2608.26119}
+    }
 
